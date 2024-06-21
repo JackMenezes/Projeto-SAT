@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/27 09:48:20.000.061,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/27 10:44:44.000.184,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/10 20:18:06.000.655,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/17 13:23:46.000.661,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/24 15:50:39.000.806,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/15 13:48:50.000.906,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/15 13:48:59.000.377,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\uBancoDados.pas</Transaction>
+    <Transaction>2017/05/15 13:49:10.000.853,D:\Sistemas\EmissorGratuitoSAT\uBancoDados.pas=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\uBancoDados.pas</Transaction>
+    <Transaction>2017/05/15 13:49:10.000.853,D:\Sistemas\EmissorGratuitoSAT\uBancoDados.dfm=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\uBancoDados.dfm</Transaction>
+    <Transaction>2017/05/15 13:49:19.000.238,D:\Sistemas\EmissorGratuitoSAT\EmissorGratuitoSAT.dproj=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/05/15 13:49:26.000.219,=D:\Sistemas\EmissorGratuitoSAT\uFrmMenu.pas</Transaction>
+    <Transaction>2017/05/15 13:51:03.000.361,=D:\Sistemas\EmissorGratuitoSAT\Unit1.pas</Transaction>
+    <Transaction>2017/05/15 13:54:41.000.188,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.pas=D:\Sistemas\EmissorGratuitoSAT\Unit1.pas</Transaction>
+    <Transaction>2017/05/15 13:54:41.000.188,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.dfm=D:\Sistemas\EmissorGratuitoSAT\Unit1.dfm</Transaction>
+    <Transaction>2017/05/17 09:20:01.000.402,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.pas</Transaction>
+    <Transaction>2017/05/17 09:20:01.000.402,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.dfm</Transaction>
+    <Transaction>2017/05/17 09:20:37.000.053,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroClientes.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.pas</Transaction>
+    <Transaction>2017/05/17 09:20:37.000.053,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroClientes.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.dfm</Transaction>
+    <Transaction>2017/05/17 09:25:59.000.673,=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.pas</Transaction>
+    <Transaction>2017/05/17 09:32:36.000.252,D:\Sistemas\EmissorGratuitoSAT\uBancoDados.pas=</Transaction>
+    <Transaction>2017/05/18 12:37:38.000.511,=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas</Transaction>
+    <Transaction>2017/05/18 12:39:59.000.019,D:\Sistemas\EmissorGratuitoSAT\uFrmCalendario.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.dfm</Transaction>
+    <Transaction>2017/05/18 12:39:59.000.019,D:\Sistemas\EmissorGratuitoSAT\uFrmCalendario.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas</Transaction>
+    <Transaction>2017/05/18 13:42:04.000.155,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.pas</Transaction>
+    <Transaction>2017/05/18 13:42:04.000.155,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.dfm</Transaction>
+    <Transaction>2017/05/18 13:44:29.000.962,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.dfm</Transaction>
+    <Transaction>2017/05/18 13:44:29.000.962,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos1.pas</Transaction>
+    <Transaction>2017/05/19 14:20:36.000.551,=D:\Sistemas\EmissorGratuitoSAT\uFrmConsultaStatusSAT.pas</Transaction>
+    <Transaction>2017/05/19 15:24:00.000.289,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente1.pas</Transaction>
+    <Transaction>2017/05/19 15:24:00.000.289,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente1.dfm</Transaction>
+    <Transaction>2017/05/19 15:28:56.000.896,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente1.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmConfigSAT.dfm</Transaction>
+    <Transaction>2017/05/19 15:28:56.000.896,D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente1.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmConfigSAT.pas</Transaction>
+    <Transaction>2017/05/22 11:07:38.000.700,=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroEmitente.pas</Transaction>
+    <Transaction>2017/05/22 15:46:21.000.524,=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas</Transaction>
+    <Transaction>2017/05/22 15:47:21.000.778,D:\Sistemas\EmissorGratuitoSAT\uFrmForm.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmVendas.dfm</Transaction>
+    <Transaction>2017/05/22 15:47:21.000.778,D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmVendas.pas</Transaction>
+    <Transaction>2017/05/23 10:57:55.000.270,=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroProdutos.pas</Transaction>
+    <Transaction>2017/05/26 15:28:58.000.939,=D:\Sistemas\EmissorGratuitoSAT\uFrmSplash.pas</Transaction>
+    <Transaction>2017/06/23 19:26:26.000.449,=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas</Transaction>
+    <Transaction>2017/06/23 19:27:39.000.852,D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroNCM.pas</Transaction>
+    <Transaction>2017/06/23 19:27:39.000.852,D:\Sistemas\EmissorGratuitoSAT\uFrmForm.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmCadastroNCM.dfm</Transaction>
+    <Transaction>2017/07/04 17:07:25.000.521,=D:\Sistemas\EmissorGratuitoSAT\uFrmNovidades.pas</Transaction>
+    <Transaction>2017/07/05 17:58:28.000.645,D:\Sistemas\EmissorGratuitoSAT\uFrmNovidades.pas=</Transaction>
+    <Transaction>2017/07/12 15:57:16.000.415,=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas</Transaction>
+    <Transaction>2017/07/12 15:59:48.000.002,D:\Sistemas\EmissorGratuitoSAT\uFrmPesquisa.dfm=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.dfm</Transaction>
+    <Transaction>2017/07/12 15:59:48.000.002,D:\Sistemas\EmissorGratuitoSAT\uFrmPesquisa.pas=D:\Sistemas\EmissorGratuitoSAT\uFrmForm.pas</Transaction>
+  </Transactions>
+</BorlandProject>

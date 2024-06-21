@@ -1,0 +1,34 @@
+object FrmCalendario: TFrmCalendario
+  Left = 0
+  Top = 0
+  Caption = 'Calend'#225'rio'
+  ClientHeight = 231
+  ClientWidth = 321
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  KeyPreview = True
+  OldCreateOrder = False
+  Visible = True
+  OnClose = FormClose
+  OnDestroy = FormDestroy
+  OnKeyDown = FormKeyDown
+  OnKeyPress = FormKeyPress
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Calendar1: TCalendar
+    Left = 0
+    Top = 0
+    Width = 321
+    Height = 231
+    Align = alClient
+    StartOfWeek = 0
+    TabOrder = 0
+    ExplicitWidth = 320
+    ExplicitHeight = 233
+  end
+end
